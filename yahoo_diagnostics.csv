@@ -5,6 +5,7 @@
 2905,2905.HK,CN CULTURE-20K,error,0,,HTTPError('404 Client Error: Not Found for url: https://query1.finance.yahoo.com/v8/finance/chart/2905.HK?range=10y&interval=1d&includePrePost=false&events=div%2Csplits')
 2908,2908.HK,BJ SPORTS & ENT,error,0,,HTTPError('404 Client Error: Not Found for url: https://query1.finance.yahoo.com/v8/finance/chart/2908.HK?range=10y&interval=1d&includePrePost=false&events=div%2Csplits')
 2910,2910.HK,ASIA STRAT-10K,error,0,,HTTPError('404 Client Error: Not Found for url: https://query1.finance.yahoo.com/v8/finance/chart/2910.HK?range=10y&interval=1d&includePrePost=false&events=div%2Csplits')
+2912,2912.HK,EASYKNIT INT'L,error,0,,HTTPError('404 Client Error: Not Found for url: https://query1.finance.yahoo.com/v8/finance/chart/2912.HK?range=10y&interval=1d&includePrePost=false&events=div%2Csplits')
 4332,4332.HK,AMGEN-T,error,0,,no_valid_rows
 4335,4335.HK,INTEL-T,error,0,,HTTPError('404 Client Error: Not Found for url: https://query1.finance.yahoo.com/v8/finance/chart/4335.HK?range=10y&interval=1d&includePrePost=false&events=div%2Csplits')
 4337,4337.HK,STARBUCKS-T,error,0,,no_valid_rows
@@ -987,7 +988,7 @@
 1288,1288.HK,ABC,ok,2461,2026-08-26,
 1289,1289.HK,SUNLIT SCI,ok,2461,2026-08-26,
 1290,1290.HK,CHINA HUIRONG,ok,2461,2026-08-26,
-1292,1292.HK,CMA LOGISTICS,ok,2460,2026-08-25,
+1292,1292.HK,CM LOGISTICS,ok,2460,2026-08-25,
 1293,1293.HK,GRAND BAOXIN,ok,2460,2026-08-25,
 1298,1298.HK,YUNNAN ENERGY,ok,2460,2026-08-25,
 1299,1299.HK,AIA,ok,2461,2026-08-26,

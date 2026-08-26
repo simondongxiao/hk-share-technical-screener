@@ -1,9 +1,9 @@
 {
   "base_date": "2026-08-26",
-  "generated_at": "2026-08-26 20:43:55 +0800",
+  "generated_at": "2026-08-26 22:16:29 +0800",
   "scanned_count": 2217,
   "coverage_ok": 2756,
-  "coverage_error": 11,
-  "source_note": "Universe: HKEX List of Securities. Price/K-line: Yahoo Finance chart API. US/global reference data is handled through Yahoo/official public links when needed.",
+  "coverage_error": 12,
+  "source_note": "Universe: HKEX List of Securities. Chinese short names: Sina HK quote API. Price/K-line: Yahoo Finance chart API. US/global reference data is handled through Yahoo/official public links when needed.",
   "gap_note": "HKEX official historical market data is not bundled locally and may require licensed access. Yahoo Finance failures are recorded in yahoo_diagnostics.csv; missing symbols are excluded from calculated pools."
 }
