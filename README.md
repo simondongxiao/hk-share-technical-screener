@@ -2,7 +2,7 @@
 
 Published entry: https://simondongxiao.github.io/hk-share-technical-screener/
 
-Generated at: 2026-10-09 17:26:18 +0800
+Generated at: 2026-10-09 21:41:46 +0800
 
 Base trading date: 2026-10-09
 
