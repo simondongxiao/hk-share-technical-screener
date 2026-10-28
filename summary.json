@@ -1,8 +1,8 @@
 {
-  "base_date": "2026-10-27",
-  "generated_at": "2026-10-27 20:40:47 +0800",
-  "scanned_count": 2089,
-  "coverage_ok": 2742,
+  "base_date": "2026-10-28",
+  "generated_at": "2026-10-28 20:14:38 +0800",
+  "scanned_count": 2119,
+  "coverage_ok": 2744,
   "coverage_error": 9,
   "source_note": "Universe: HKEX List of Securities. Chinese short names: Sina HK quote API. Market cap: Tencent HK quote API, in HKD 100m. Price/K-line: Yahoo Finance chart API. US/global reference data is handled through Yahoo/official public links when needed.",
   "gap_note": "HKEX official historical market data is not bundled locally and may require licensed access. Yahoo Finance failures are recorded in yahoo_diagnostics.csv; missing symbols are excluded from calculated pools."
