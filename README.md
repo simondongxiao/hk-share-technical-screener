@@ -2,8 +2,8 @@
 
 Published entry: https://simondongxiao.github.io/hk-share-technical-screener/
 
-Generated at: 2026-11-19 20:38:28 +0800
+Generated at: 2026-11-21 08:13:45 +0800
 
-Base trading date: 2026-11-19
+Base trading date: 2026-11-20
 
 Data sources: HKEX List of Securities for universe; Sina HK quote API for Chinese short names; Tencent HK quote API for market cap; Yahoo Finance chart API for price/K-line fallback.
